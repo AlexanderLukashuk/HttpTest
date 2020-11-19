@@ -1,0 +1,15 @@
+C:\Users\Luka_ry90\source\repos\NetworkProgramming\HttpTest\HttpTest\obj\Debug\netcoreapp3.1\HttpTest.csprojAssemblyReference.cache
+C:\Users\Luka_ry90\source\repos\NetworkProgramming\HttpTest\HttpTest\obj\Debug\netcoreapp3.1\HttpTest.AssemblyInfoInputs.cache
+C:\Users\Luka_ry90\source\repos\NetworkProgramming\HttpTest\HttpTest\obj\Debug\netcoreapp3.1\HttpTest.AssemblyInfo.cs
+C:\Users\Luka_ry90\source\repos\NetworkProgramming\HttpTest\HttpTest\bin\Debug\netcoreapp3.1\HttpTest.exe
+C:\Users\Luka_ry90\source\repos\NetworkProgramming\HttpTest\HttpTest\bin\Debug\netcoreapp3.1\HttpTest.deps.json
+C:\Users\Luka_ry90\source\repos\NetworkProgramming\HttpTest\HttpTest\bin\Debug\netcoreapp3.1\HttpTest.runtimeconfig.json
+C:\Users\Luka_ry90\source\repos\NetworkProgramming\HttpTest\HttpTest\bin\Debug\netcoreapp3.1\HttpTest.runtimeconfig.dev.json
+C:\Users\Luka_ry90\source\repos\NetworkProgramming\HttpTest\HttpTest\bin\Debug\netcoreapp3.1\HttpTest.dll
+C:\Users\Luka_ry90\source\repos\NetworkProgramming\HttpTest\HttpTest\bin\Debug\netcoreapp3.1\HttpTest.pdb
+C:\Users\Luka_ry90\source\repos\NetworkProgramming\HttpTest\HttpTest\obj\Debug\netcoreapp3.1\HttpTest.dll
+C:\Users\Luka_ry90\source\repos\NetworkProgramming\HttpTest\HttpTest\obj\Debug\netcoreapp3.1\HttpTest.pdb
+C:\Users\Luka_ry90\source\repos\NetworkProgramming\HttpTest\HttpTest\obj\Debug\netcoreapp3.1\HttpTest.genruntimeconfig.cache
+C:\Users\Luka_ry90\source\repos\NetworkProgramming\HttpTest\HttpTest\bin\Debug\netcoreapp3.1\FluentFTP.dll
+C:\Users\Luka_ry90\source\repos\NetworkProgramming\HttpTest\HttpTest\obj\Debug\netcoreapp3.1\HttpTest.csproj.CoreCompileInputs.cache
+C:\Users\Luka_ry90\source\repos\NetworkProgramming\HttpTest\HttpTest\obj\Debug\netcoreapp3.1\HttpTest.csproj.CopyComplete
